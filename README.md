@@ -1,2 +1,2 @@
 # AlexSQLassignment
-First Assignment for Data-X-Plaksha taught by Professor Alexander Fred Ojala; after learning SQL recently
+Exercise to test the application of Basic SQL commands
